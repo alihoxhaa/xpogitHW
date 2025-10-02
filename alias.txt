@@ -1,0 +1,2 @@
+git config --global alias.lg "log --oneline --graph --decorate --all"
+#because alias is not visible to the mentor as it is inside .gitconfig
