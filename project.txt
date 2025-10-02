@@ -1,3 +1,4 @@
 first line
 line second
 final line
+temporary line
